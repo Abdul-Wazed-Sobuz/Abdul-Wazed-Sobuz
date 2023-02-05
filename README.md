@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=Abdul-Wazed-Sobuz&theme=algolia&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Wazed-Sobuz&theme=algolia&hide_border=true)<br/>
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Wazed-Sobuz&theme=algolia&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+-->
 
 <!--
 ## 🏆 GitHub Trophies
